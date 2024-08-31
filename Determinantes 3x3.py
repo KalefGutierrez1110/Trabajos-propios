@@ -1,4 +1,4 @@
-$Programa en python para resolver matrices 3x3
+#Programa en python para resolver matrices 3x3
 
 print("Ingresa los valores del siguiente determinante:\n |a  b  c|\n |d  e  f|\n |g  h  i|")
 
